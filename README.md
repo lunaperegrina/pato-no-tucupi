@@ -11,3 +11,8 @@ Tenha o nodeJS com npm instalado.
 ```
 npx pato-no-tucupi
 ```
+
+## ✅ Features principais
+
+- Pato no tucupi
+- Macaco da noite
