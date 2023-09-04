@@ -1,0 +1,13 @@
+{
+  "name": "pato-no-tucupi",
+  "version": "1.0.0",
+  "description": "O abcdaamazonia fala do Pato no Tucupi",
+  "bin": "index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pedro Peregrina",
+  "license": "ISC"
+}
